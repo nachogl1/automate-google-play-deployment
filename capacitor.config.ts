@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.nachogl1.test',
   appName: 'automate-google-play-deployment',
   webDir: 'www',
   bundledWebRuntime: false

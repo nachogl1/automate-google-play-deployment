@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package com.nachogl1.test;
 
 import com.getcapacitor.BridgeActivity;
 
