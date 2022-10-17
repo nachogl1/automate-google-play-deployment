@@ -1,0 +1,7 @@
+{
+  "name": "automate-google-play-deployment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
