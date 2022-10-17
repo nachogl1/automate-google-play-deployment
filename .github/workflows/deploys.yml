@@ -1,4 +1,4 @@
-name: Deploy to Alpha
+name: Deploy to Internal
 
 on:
   push:
