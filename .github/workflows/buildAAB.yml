@@ -1,4 +1,4 @@
-name: Build APK
+name: Build aab
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 jobs:
 
   build:
-    name: Build APK
+    name: Build aab
     runs-on: ubuntu-latest
 
     steps:
